@@ -125,6 +125,10 @@ html {
   color: #2660f3;
   margin-bottom: 1.5rem;
   font-size: 1.4rem;
+   font-weight: 600;
+}
+.category-name span {
+  margin-right: 15px;
 }
 .result-post-title a {
   color: #535353;
